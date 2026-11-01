@@ -79,7 +79,9 @@ This runs every cell, saves the outputs into the notebook and writes the CSVs an
 
 ## Data and caching
 
-- Each Wikipedia page is downloaded once into `data/raw/` and read from there afterwards, so re-runs are fast and work offline. To refresh the data, delete the files in `data/raw/` and run again.
+- Each Wikipedia page is downloaded once into `data/raw/` and read from there afterwards, so re-runs are fast, repeatable and work offline. The cached copies never expire on their own, so re-running months later still uses the old snapshot.
+- **To pull a fresh snapshot:** set `REFRESH = True` in the notebook's first code cell and run all cells. Every page is re-downloaded once and replaces its cached copy (a failed download keeps the old copy and stops with an error). Set it back to `False` afterwards. Deleting the files in `data/raw/` has the same effect.
+- A refresh overwrites `data/clean/` and `figures/`. Copy them somewhere first if you want to keep the old snapshot, and note that the written conclusions in the notebook are static text from the original snapshot, so review them after refreshing.
 - Wikipedia may answer "429 Too Many Requests" on a fresh download; the notebook waits and retries automatically.
 - The values are a **snapshot**: each indicator is the latest value Wikipedia shows, and the data year differs by indicator (see `data/clean/indicator_provenance.csv`). The notebook's final section lists the caveats.
 
