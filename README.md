@@ -87,6 +87,10 @@ This runs every cell, saves the outputs into the notebook and writes the CSVs an
 
 All values come from English Wikipedia's "List of countries by …" pages (plus a few "Economy of …" infoboxes and index pages such as the Corruption Perceptions Index). Wikipedia text and tables are available under CC BY-SA 4.0, and those pages in turn compile figures from the IMF, World Bank, UN, CIA World Factbook and others. Check the original sources' terms before reusing the data beyond personal or educational use. The cached HTML in `data/raw/` is not committed to this repository; run the notebook once to download it.
 
+## License
+
+The code and notebook are released under the [MIT License](LICENSE). The MIT license covers the code only: the underlying data comes from Wikipedia and its cited sources and keeps its own terms, as described above.
+
 ## Troubleshooting
 
 **`NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL …'`**
