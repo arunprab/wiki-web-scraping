@@ -1,0 +1,586 @@
+country,indicator,value,year,source_page,source_column
+Australia,co2_per_capita_t,15.091,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+Brazil,co2_per_capita_t,2.281,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+Canada,co2_per_capita_t,14.3,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+China,co2_per_capita_t,8.046,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+France,co2_per_capita_t,4.741,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+Germany,co2_per_capita_t,8.09,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+India,co2_per_capita_t,1.925,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+Italy,co2_per_capita_t,5.548,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+Japan,co2_per_capita_t,8.566,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+Mexico,co2_per_capita_t,3.214,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+Russia,co2_per_capita_t,12.099,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+South Korea,co2_per_capita_t,11.886,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+Spain,co2_per_capita_t,4.92,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+United Kingdom,co2_per_capita_t,5.154,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+United States,co2_per_capita_t,14.859,2021.0,List_of_countries_by_carbon_dioxide_emissions_per_capita,Production vs. consumption-based CO2 emissions per capita (tCO2/cap) | 2021 | P
+Australia,cpi_score,76.0,2025.0,Corruption_Perceptions_Index,Score
+Brazil,cpi_score,35.0,2025.0,Corruption_Perceptions_Index,Score
+Canada,cpi_score,75.0,2025.0,Corruption_Perceptions_Index,Score
+China,cpi_score,43.0,2025.0,Corruption_Perceptions_Index,Score
+France,cpi_score,66.0,2025.0,Corruption_Perceptions_Index,Score
+Germany,cpi_score,77.0,2025.0,Corruption_Perceptions_Index,Score
+India,cpi_score,39.0,2025.0,Corruption_Perceptions_Index,Score
+Italy,cpi_score,53.0,2025.0,Corruption_Perceptions_Index,Score
+Japan,cpi_score,71.0,2025.0,Corruption_Perceptions_Index,Score
+Mexico,cpi_score,27.0,2025.0,Corruption_Perceptions_Index,Score
+Russia,cpi_score,22.0,2025.0,Corruption_Perceptions_Index,Score
+South Korea,cpi_score,63.0,2025.0,Corruption_Perceptions_Index,Score
+Spain,cpi_score,55.0,2025.0,Corruption_Perceptions_Index,Score
+United Kingdom,cpi_score,70.0,2025.0,Corruption_Perceptions_Index,Score
+United States,cpi_score,64.0,2025.0,Corruption_Perceptions_Index,Score
+Australia,current_account_pct_gdp,1.24,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+Brazil,current_account_pct_gdp,-1.42,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+Canada,current_account_pct_gdp,-0.62,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+China,current_account_pct_gdp,1.42,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+France,current_account_pct_gdp,-0.75,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+Germany,current_account_pct_gdp,5.9,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+India,current_account_pct_gdp,-0.91,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+Italy,current_account_pct_gdp,0.51,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+Japan,current_account_pct_gdp,3.58,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+Mexico,current_account_pct_gdp,-0.32,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+Russia,current_account_pct_gdp,2.48,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+South Korea,current_account_pct_gdp,2.07,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+Spain,current_account_pct_gdp,2.6,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+United Kingdom,current_account_pct_gdp,-3.31,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+United States,current_account_pct_gdp,-2.99,2023.0,List_of_countries_by_current_account_balance,WB[5][6] | (% of GDP)
+Australia,exports_usd_bn,429.327,2025.0,List_of_countries_by_exports,Exports
+Brazil,exports_usd_bn,404.92,2025.0,List_of_countries_by_exports,Exports
+Canada,exports_usd_bn,726.63,2025.0,List_of_countries_by_exports,Exports
+China,exports_usd_bn,4136.835,2025.0,List_of_countries_by_exports,Exports
+France,exports_usd_bn,1136.323,2025.0,List_of_countries_by_exports,Exports
+Germany,exports_usd_bn,2047.926,2025.0,List_of_countries_by_exports,Exports
+India,exports_usd_bn,863.1,2025.0,List_of_countries_by_exports,Exports
+Italy,exports_usd_bn,823.816,2025.0,List_of_countries_by_exports,Exports
+Japan,exports_usd_bn,971.285,2025.0,List_of_countries_by_exports,Exports
+Mexico,exports_usd_bn,730.8290000000001,2025.0,List_of_countries_by_exports,Exports
+Russia,exports_usd_bn,465.788,2025.0,List_of_countries_by_exports,Exports
+South Korea,exports_usd_bn,869.086,2025.0,List_of_countries_by_exports,Exports
+Spain,exports_usd_bn,699.338,2025.0,List_of_countries_by_exports,Exports
+United Kingdom,exports_usd_bn,1225.513,2025.0,List_of_countries_by_exports,Exports
+United States,exports_usd_bn,3429.815,2025.0,List_of_countries_by_exports,Exports
+Australia,ext_debt_pct_gdp,96.51,2025.0,List_of_countries_by_external_debt,% of GDP[3]
+Brazil,ext_debt_pct_gdp,26.28,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+Canada,ext_debt_pct_gdp,138.32,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+China,ext_debt_pct_gdp,11.57,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+France,ext_debt_pct_gdp,257.21,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+Germany,ext_debt_pct_gdp,149.27,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+India,ext_debt_pct_gdp,18.37,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+Italy,ext_debt_pct_gdp,119.39,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+Japan,ext_debt_pct_gdp,109.3,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+Mexico,ext_debt_pct_gdp,43.64,2023.0,List_of_countries_by_external_debt,% of GDP[3]
+Russia,ext_debt_pct_gdp,11.26,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+South Korea,ext_debt_pct_gdp,40.1,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+Spain,ext_debt_pct_gdp,157.35,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+United Kingdom,ext_debt_pct_gdp,278.18,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+United States,ext_debt_pct_gdp,93.25,2026.0,List_of_countries_by_external_debt,% of GDP[3]
+Australia,ext_debt_usd_bn,2050.0,2025.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+Brazil,ext_debt_usd_bn,692.6895,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+Canada,ext_debt_usd_bn,3468.2119,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+China,ext_debt_usd_bn,2412.0799,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+France,ext_debt_usd_bn,9249.4815,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+Germany,ext_debt_usd_bn,8139.6669,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+India,ext_debt_usd_bn,762.7656,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+Italy,ext_debt_usd_bn,3268.9915,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+Japan,ext_debt_usd_bn,4786.71,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+Mexico,ext_debt_usd_bn,880.0,2023.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+Russia,ext_debt_usd_bn,299.0637,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+South Korea,ext_debt_usd_bn,774.3902,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+Spain,ext_debt_usd_bn,3290.5521,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+United Kingdom,ext_debt_usd_bn,11355.0,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+United States,ext_debt_usd_bn,30196.961,2026.0,List_of_countries_by_external_debt,Total debt (billions)[1]
+Australia,fiscal_balance_pct_gdp,-1.66,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+Brazil,fiscal_balance_pct_gdp,-6.93,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+Canada,fiscal_balance_pct_gdp,-1.98,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+China,fiscal_balance_pct_gdp,-7.43,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+France,fiscal_balance_pct_gdp,-5.96,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+Germany,fiscal_balance_pct_gdp,-2.0,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+India,fiscal_balance_pct_gdp,-7.78,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+Italy,fiscal_balance_pct_gdp,-3.99,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+Japan,fiscal_balance_pct_gdp,-6.09,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+Mexico,fiscal_balance_pct_gdp,-5.9,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+Russia,fiscal_balance_pct_gdp,-1.87,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+South Korea,fiscal_balance_pct_gdp,-0.53,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+Spain,fiscal_balance_pct_gdp,-2.95,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+United Kingdom,fiscal_balance_pct_gdp,-4.25,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+United States,fiscal_balance_pct_gdp,-7.63,2024.0,List_of_countries_by_government_budget,General net lending/borrowing[c] | % of GDP
+Australia,fx_reserves_usd_bn,65.018,2024.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+Brazil,fx_reserves_usd_bn,366.913,2026.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+Canada,fx_reserves_usd_bn,123.084,2024.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+China,fx_reserves_usd_bn,3854.885,2026.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+France,fx_reserves_usd_bn,272.693,2024.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+Germany,fx_reserves_usd_bn,345.338,2024.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+India,fx_reserves_usd_bn,734.606,2026.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+Italy,fx_reserves_usd_bn,279.63100000000003,2024.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+Japan,fx_reserves_usd_bn,1287.47,2026.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+Mexico,fx_reserves_usd_bn,255.60500000000002,2026.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+Russia,fx_reserves_usd_bn,761.2,2026.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+South Korea,fx_reserves_usd_bn,427.40000000000003,2026.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+Spain,fx_reserves_usd_bn,100.983,2024.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+United Kingdom,fx_reserves_usd_bn,189.228,2024.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+United States,fx_reserves_usd_bn,253.767,2025.0,List_of_countries_by_foreign-exchange_reserves,Foreign exchange reserves | Including gold | US$ million
+Australia,gdp_growth_pct,1.634,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+Brazil,gdp_growth_pct,2.01,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+Canada,gdp_growth_pct,1.376,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+China,gdp_growth_pct,3.954,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+France,gdp_growth_pct,0.641,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+Germany,gdp_growth_pct,-0.05,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+India,gdp_growth_pct,7.41,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+Italy,gdp_growth_pct,0.6,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+Japan,gdp_growth_pct,0.554,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+Mexico,gdp_growth_pct,-0.26,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+Russia,gdp_growth_pct,1.456,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+South Korea,gdp_growth_pct,1.027,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+Spain,gdp_growth_pct,2.501,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+United Kingdom,gdp_growth_pct,1.077,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+United States,gdp_growth_pct,1.826,2025.0,List_of_countries_by_real_GDP_growth_rate,2025
+Australia,gdp_nominal_usd_bn,2110.657,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+Brazil,gdp_nominal_usd_bn,2654.761,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+Canada,gdp_nominal_usd_bn,2490.256,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+China,gdp_nominal_usd_bn,21546.403000000002,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+France,gdp_nominal_usd_bn,3554.155,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+Germany,gdp_nominal_usd_bn,5471.299,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+India,gdp_nominal_usd_bn,4060.207,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+Italy,gdp_nominal_usd_bn,2701.737,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+Japan,gdp_nominal_usd_bn,4341.986,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+Mexico,gdp_nominal_usd_bn,2176.236,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+Russia,gdp_nominal_usd_bn,2861.156,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+South Korea,gdp_nominal_usd_bn,2245.847,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+Spain,gdp_nominal_usd_bn,2085.276,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+United Kingdom,gdp_nominal_usd_bn,4268.446,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+United States,gdp_nominal_usd_bn,32642.373,2026.0,List_of_countries_by_GDP_(nominal),IMF (2026)[1]
+Australia,gdp_nominal_wb_usd_bn,1798.519,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+Brazil,gdp_nominal_wb_usd_bn,2279.92,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+Canada,gdp_nominal_wb_usd_bn,2319.9,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+China,gdp_nominal_wb_usd_bn,19498.039,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+France,gdp_nominal_wb_usd_bn,3366.3160000000003,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+Germany,gdp_nominal_wb_usd_bn,5050.923,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+India,gdp_nominal_wb_usd_bn,3956.067,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+Italy,gdp_nominal_wb_usd_bn,2551.5570000000002,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+Japan,gdp_nominal_wb_usd_bn,4435.1630000000005,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+Mexico,gdp_nominal_wb_usd_bn,1832.641,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+Russia,gdp_nominal_wb_usd_bn,2561.31,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+South Korea,gdp_nominal_wb_usd_bn,1872.375,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+Spain,gdp_nominal_wb_usd_bn,1906.453,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+United Kingdom,gdp_nominal_wb_usd_bn,4002.588,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+United States,gdp_nominal_wb_usd_bn,30769.7,2025.0,List_of_countries_by_GDP_(nominal),World Bank (2025)[6]
+Australia,gdp_pc_nominal_usd,75172.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+Brazil,gdp_pc_nominal_usd,12397.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+Canada,gdp_pc_nominal_usd,60105.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+China,gdp_pc_nominal_usd,15371.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+France,gdp_pc_nominal_usd,51448.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+Germany,gdp_pc_nominal_usd,65699.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+India,gdp_pc_nominal_usd,2749.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+Italy,gdp_pc_nominal_usd,45886.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+Japan,gdp_pc_nominal_usd,35399.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+Mexico,gdp_pc_nominal_usd,16191.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+Russia,gdp_pc_nominal_usd,19953.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+South Korea,gdp_pc_nominal_usd,43512.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+Spain,gdp_pc_nominal_usd,41756.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+United Kingdom,gdp_pc_nominal_usd,61108.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+United States,gdp_pc_nominal_usd,95212.0,2026.0,List_of_countries_by_GDP_(nominal)_per_capita,IMF (2026)[b][5]
+Australia,gdp_pc_ppp_usd,75039.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+Brazil,gdp_pc_ppp_usd,24594.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+Canada,gdp_pc_ppp_usd,70374.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+China,gdp_pc_ppp_usd,31786.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+France,gdp_pc_ppp_usd,68852.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+Germany,gdp_pc_ppp_usd,78664.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+India,gdp_pc_ppp_usd,12998.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+Italy,gdp_pc_ppp_usd,66221.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+Japan,gdp_pc_ppp_usd,59712.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+Mexico,gdp_pc_ppp_usd,26743.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+Russia,gdp_pc_ppp_usd,52602.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+South Korea,gdp_pc_ppp_usd,70251.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+Spain,gdp_pc_ppp_usd,60106.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+United Kingdom,gdp_pc_ppp_usd,68476.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+United States,gdp_pc_ppp_usd,95212.0,2026.0,List_of_countries_by_GDP_(PPP)_per_capita,IMF[8][9][10] (2026)
+Australia,gdp_ppp_usd_bn,2106.908,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+Brazil,gdp_ppp_usd_bn,5266.506,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+Canada,gdp_ppp_usd_bn,2915.715,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+China,gdp_ppp_usd_bn,44554.951,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+France,gdp_ppp_usd_bn,4756.403,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+Germany,gdp_ppp_usd_bn,6550.995,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+India,gdp_ppp_usd_bn,19192.617000000002,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+Italy,gdp_ppp_usd_bn,3898.9900000000002,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+Japan,gdp_ppp_usd_bn,7324.055,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+Mexico,gdp_ppp_usd_bn,3594.397,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+Russia,gdp_ppp_usd_bn,7542.897,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+South Korea,gdp_ppp_usd_bn,3625.973,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+Spain,gdp_ppp_usd_bn,3001.678,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+United Kingdom,gdp_ppp_usd_bn,4783.102,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+United States,gdp_ppp_usd_bn,32642.373,2026.0,List_of_countries_by_GDP_(PPP),IMF (2026)[a][6]
+Australia,gini_unu_wider,34.33,2018.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+Brazil,gini_unu_wider,51.4,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+Canada,gini_unu_wider,28.8,2021.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+China,gini_unu_wider,36.67,2020.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+France,gini_unu_wider,31.63,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+Germany,gini_unu_wider,30.64,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+India,gini_unu_wider,37.06,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+Italy,gini_unu_wider,34.92,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+Japan,gini_unu_wider,33.4,2018.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+Mexico,gini_unu_wider,44.01,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+Russia,gini_unu_wider,36.03,2020.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+South Korea,gini_unu_wider,33.1,2020.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+Spain,gini_unu_wider,33.99,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+United Kingdom,gini_unu_wider,34.24,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+United States,gini_unu_wider,39.79,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | UNU- WIDER[2]
+Australia,gini_wb,33.8,2020.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+Brazil,gini_wb,50.3,2024.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+Canada,gini_wb,31.5,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+China,gini_wb,36.0,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+France,gini_wb,31.8,2023.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+Germany,gini_wb,33.7,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+India,gini_wb,25.5,2022.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+Italy,gini_wb,34.3,2023.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+Japan,gini_wb,32.9,2013.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+Mexico,gini_wb,42.6,2024.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+Russia,gini_wb,33.0,2023.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+South Korea,gini_wb,32.9,2021.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+Spain,gini_wb,33.4,2023.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+United Kingdom,gini_wb,32.4,2021.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+United States,gini_wb,41.8,2024.0,List_of_countries_by_income_equality,Gini coefficient[a] | WB[1]
+Australia,gov_expenditure_pct_gdp,38.01,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+Brazil,gov_expenditure_pct_gdp,46.23,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+Canada,gov_expenditure_pct_gdp,43.26,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+China,gov_expenditure_pct_gdp,33.86,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+France,gov_expenditure_pct_gdp,57.24,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+Germany,gov_expenditure_pct_gdp,48.17,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+India,gov_expenditure_pct_gdp,29.04,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+Italy,gov_expenditure_pct_gdp,50.61,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+Japan,gov_expenditure_pct_gdp,42.2,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+Mexico,gov_expenditure_pct_gdp,30.15,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+Russia,gov_expenditure_pct_gdp,37.32,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+South Korea,gov_expenditure_pct_gdp,22.64,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+Spain,gov_expenditure_pct_gdp,44.82,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+United Kingdom,gov_expenditure_pct_gdp,43.38,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+United States,gov_expenditure_pct_gdp,37.53,2024.0,List_of_countries_by_government_budget,Expenditure[b] | % of GDP
+Australia,gov_revenue_pct_gdp,36.35,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+Brazil,gov_revenue_pct_gdp,39.3,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+Canada,gov_revenue_pct_gdp,41.27,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+China,gov_revenue_pct_gdp,26.43,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+France,gov_revenue_pct_gdp,51.27,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+Germany,gov_revenue_pct_gdp,46.17,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+India,gov_revenue_pct_gdp,21.26,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+Italy,gov_revenue_pct_gdp,46.62,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+Japan,gov_revenue_pct_gdp,36.1,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+Mexico,gov_revenue_pct_gdp,24.25,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+Russia,gov_revenue_pct_gdp,35.45,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+South Korea,gov_revenue_pct_gdp,22.12,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+Spain,gov_revenue_pct_gdp,41.86,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+United Kingdom,gov_revenue_pct_gdp,39.13,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+United States,gov_revenue_pct_gdp,29.9,2024.0,List_of_countries_by_government_budget,Revenue[a] | % of GDP
+Australia,hdi,0.958,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+Brazil,hdi,0.786,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+Canada,hdi,0.939,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+China,hdi,0.797,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+France,hdi,0.92,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+Germany,hdi,0.959,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+India,hdi,0.685,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+Italy,hdi,0.915,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+Japan,hdi,0.925,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+Mexico,hdi,0.789,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+Russia,hdi,0.832,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+South Korea,hdi,0.937,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+Spain,hdi,0.918,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+United Kingdom,hdi,0.946,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+United States,hdi,0.938,2023.0,List_of_countries_by_Human_Development_Index,HDI value
+Australia,health_exp_pc_ppp,7072.0,2022.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+Brazil,health_exp_pc_ppp,1696.0,2022.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+Canada,health_exp_pc_ppp,6813.0,2023.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+China,health_exp_pc_ppp,1136.0,2022.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+France,health_exp_pc_ppp,6853.0,2022.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+Germany,health_exp_pc_ppp,7758.0,2023.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+India,health_exp_pc_ppp,273.0,2022.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+Italy,health_exp_pc_ppp,4935.0,2023.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+Japan,health_exp_pc_ppp,5387.0,2022.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+Mexico,health_exp_pc_ppp,1353.0,2022.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+Russia,health_exp_pc_ppp,2446.0,2022.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+South Korea,health_exp_pc_ppp,5350.0,2023.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+Spain,health_exp_pc_ppp,4776.0,2022.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+United Kingdom,health_exp_pc_ppp,6372.0,2023.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+United States,health_exp_pc_ppp,12434.0,2022.0,List_of_countries_by_total_health_expenditure_per_capita,PPP $
+Australia,imports_usd_bn,396.154,,List_of_countries_by_imports,Total imports | WB[3]
+Brazil,imports_usd_bn,381.758,,List_of_countries_by_imports,Total imports | WB[3]
+Canada,imports_usd_bn,733.2860000000001,,List_of_countries_by_imports,Total imports | WB[3]
+China,imports_usd_bn,3219.343,,List_of_countries_by_imports,Total imports | WB[3]
+France,imports_usd_bn,1157.661,,List_of_countries_by_imports,Total imports | WB[3]
+Germany,imports_usd_bn,1782.162,,List_of_countries_by_imports,Total imports | WB[3]
+India,imports_usd_bn,919.206,,List_of_countries_by_imports,Total imports | WB[3]
+Italy,imports_usd_bn,722.349,,List_of_countries_by_imports,Total imports | WB[3]
+Japan,imports_usd_bn,981.638,,List_of_countries_by_imports,Total imports | WB[3]
+Mexico,imports_usd_bn,702.6610000000001,,List_of_countries_by_imports,Total imports | WB[3]
+Russia,imports_usd_bn,382.41200000000003,,List_of_countries_by_imports,Total imports | WB[3]
+South Korea,imports_usd_bn,752.67,,List_of_countries_by_imports,Total imports | WB[3]
+Spain,imports_usd_bn,568.717,,List_of_countries_by_imports,Total imports | WB[3]
+United Kingdom,imports_usd_bn,1157.638,,List_of_countries_by_imports,Total imports | WB[3]
+United States,imports_usd_bn,4083.292,,List_of_countries_by_imports,Total imports | WB[3]
+Australia,income_group,High income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+Brazil,income_group,Upper middle income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+Canada,income_group,High income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+China,income_group,Upper middle income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+France,income_group,High income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+Germany,income_group,High income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+India,income_group,Lower middle income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+Italy,income_group,High income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+Japan,income_group,High income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+Mexico,income_group,Upper middle income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+Russia,income_group,High income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+South Korea,income_group,High income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+Spain,income_group,High income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+United Kingdom,income_group,High income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+United States,income_group,High income,,List_of_countries_by_income_equality,World Bank Income group (2024)
+Australia,inflation_pct,3.2,2024.0,List_of_countries_by_inflation_rate,2024
+Brazil,inflation_pct,4.4,2024.0,List_of_countries_by_inflation_rate,2024
+Canada,inflation_pct,2.4,2024.0,List_of_countries_by_inflation_rate,2024
+China,inflation_pct,0.2,2024.0,List_of_countries_by_inflation_rate,2024
+France,inflation_pct,2.0,2024.0,List_of_countries_by_inflation_rate,2024
+Germany,inflation_pct,2.3,2024.0,List_of_countries_by_inflation_rate,2024
+India,inflation_pct,5.0,2024.0,List_of_countries_by_inflation_rate,2024
+Italy,inflation_pct,1.0,2024.0,List_of_countries_by_inflation_rate,2024
+Japan,inflation_pct,2.7,2024.0,List_of_countries_by_inflation_rate,2024
+Mexico,inflation_pct,4.7,2024.0,List_of_countries_by_inflation_rate,2024
+Russia,inflation_pct,5.9,2025.0,Economy_of_Russia,infobox
+South Korea,inflation_pct,2.3,2024.0,List_of_countries_by_inflation_rate,2024
+Spain,inflation_pct,2.8,2024.0,List_of_countries_by_inflation_rate,2024
+United Kingdom,inflation_pct,3.3,2024.0,List_of_countries_by_inflation_rate,2024
+United States,inflation_pct,2.9,2024.0,List_of_countries_by_inflation_rate,2024
+Australia,labour_force_m,14.911999999999999,,List_of_countries_by_labour_force,Labour force
+Brazil,labour_force_m,106.78999999999999,,List_of_countries_by_labour_force,Labour force
+Canada,labour_force_m,22.868,,List_of_countries_by_labour_force,Labour force
+China,labour_force_m,773.88,,List_of_countries_by_labour_force,Labour force
+France,labour_force_m,31.724999999999998,,List_of_countries_by_labour_force,Labour force
+Germany,labour_force_m,43.772,,List_of_countries_by_labour_force,Labour force
+India,labour_force_m,607.6909999999999,,List_of_countries_by_labour_force,Labour force
+Italy,labour_force_m,25.828,,List_of_countries_by_labour_force,Labour force
+Japan,labour_force_m,69.38199999999999,,List_of_countries_by_labour_force,Labour force
+Mexico,labour_force_m,60.958999999999996,,List_of_countries_by_labour_force,Labour force
+Russia,labour_force_m,72.517,,List_of_countries_by_labour_force,Labour force
+South Korea,labour_force_m,29.712999999999997,,List_of_countries_by_labour_force,Labour force
+Spain,labour_force_m,24.386,,List_of_countries_by_labour_force,Labour force
+United Kingdom,labour_force_m,35.359,,List_of_countries_by_labour_force,Labour force
+United States,labour_force_m,174.17399999999998,,List_of_countries_by_labour_force,Labour force
+Australia,life_expectancy,83.05,2024.0,List_of_countries_by_life_expectancy,2024 | All
+Brazil,life_expectancy,76.02,2024.0,List_of_countries_by_life_expectancy,2024 | All
+Canada,life_expectancy,82.11,2024.0,List_of_countries_by_life_expectancy,2024 | All
+China,life_expectancy,78.02,2024.0,List_of_countries_by_life_expectancy,2024 | All
+France,life_expectancy,82.98,2024.0,List_of_countries_by_life_expectancy,2024 | All
+Germany,life_expectancy,80.79,2024.0,List_of_countries_by_life_expectancy,2024 | All
+India,life_expectancy,72.23,2024.0,List_of_countries_by_life_expectancy,2024 | All
+Italy,life_expectancy,83.95,2024.0,List_of_countries_by_life_expectancy,2024 | All
+Japan,life_expectancy,84.04,2024.0,List_of_countries_by_life_expectancy,2024 | All
+Mexico,life_expectancy,75.26,2024.0,List_of_countries_by_life_expectancy,2024 | All
+Russia,life_expectancy,73.44,2024.0,List_of_countries_by_life_expectancy,2024 | All
+South Korea,life_expectancy,83.63,2024.0,List_of_countries_by_life_expectancy,2024 | All
+Spain,life_expectancy,83.89,2024.0,List_of_countries_by_life_expectancy,2024 | All
+United Kingdom,life_expectancy,81.39,2024.0,List_of_countries_by_life_expectancy,2024 | All
+United States,life_expectancy,78.89,2024.0,List_of_countries_by_life_expectancy,2024 | All
+Australia,literacy_pct,99.0,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+Brazil,literacy_pct,93.2,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+Canada,literacy_pct,99.0,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+China,literacy_pct,96.8,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+France,literacy_pct,99.0,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+Germany,literacy_pct,99.0,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+India,literacy_pct,74.4,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+Italy,literacy_pct,99.2,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+Japan,literacy_pct,99.0,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+Mexico,literacy_pct,95.2,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+Russia,literacy_pct,99.93,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+South Korea,literacy_pct,97.97,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+Spain,literacy_pct,98.6,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+United Kingdom,literacy_pct,99.0,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+United States,literacy_pct,99.0,,List_of_countries_by_literacy_rate,Literacy rate[13][14][1] [text–source integrity?] | Total
+Australia,median_age,38.1,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+Brazil,median_age,35.1,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+Canada,median_age,42.6,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+China,median_age,40.2,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+France,median_age,42.6,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+Germany,median_age,46.8,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+India,median_age,29.8,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+Italy,median_age,48.4,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+Japan,median_age,49.9,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+Mexico,median_age,30.8,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+Russia,median_age,41.9,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+South Korea,median_age,45.5,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+Spain,median_age,46.8,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+United Kingdom,median_age,40.8,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+United States,median_age,38.9,2024.0,List_of_countries_by_median_age,Median ages in years | 2024 median | Combined
+Australia,population_growth_pct,0.95,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+Brazil,population_growth_pct,0.4,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+Canada,population_growth_pct,1.23,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+China,population_growth_pct,-0.18,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+France,population_growth_pct,0.24,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+Germany,population_growth_pct,0.55,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+India,population_growth_pct,0.89,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+Italy,population_growth_pct,-0.2,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+Japan,population_growth_pct,-0.5,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+Mexico,population_growth_pct,0.88,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+Russia,population_growth_pct,-0.1,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+South Korea,population_growth_pct,-0.07,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+Spain,population_growth_pct,0.17,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+United Kingdom,population_growth_pct,0.74,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+United States,population_growth_pct,0.57,2023.0,List_of_countries_by_population_(United_Nations),Change (%)
+Australia,population_m,26.451124,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+Brazil,population_m,211.140729,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+Canada,population_m,39.299105,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+China,population_m,1422.5849329999999,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+France,population_m,66.438822,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+Germany,population_m,84.548231,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+India,population_m,1438.069596,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+Italy,population_m,59.499452999999995,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+Japan,population_m,124.370947,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+Mexico,population_m,129.739759,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+Russia,population_m,145.4405,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+South Korea,population_m,51.748739,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+Spain,population_m,47.911578999999996,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+United Kingdom,population_m,68.682962,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+United States,population_m,343.477335,2023.0,List_of_countries_by_population_(United_Nations),Population (1 July 2023)
+Australia,poverty_3usd_pct,1.0,2020.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+Brazil,poverty_3usd_pct,3.8,2023.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+Canada,poverty_3usd_pct,0.2,2021.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+China,poverty_3usd_pct,0.0,2022.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+France,poverty_3usd_pct,0.1,2023.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+Germany,poverty_3usd_pct,0.2,2020.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+India,poverty_3usd_pct,5.3,2022.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+Italy,poverty_3usd_pct,0.9,2023.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+Japan,poverty_3usd_pct,1.2,2020.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+Mexico,poverty_3usd_pct,2.3,2022.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+Russia,poverty_3usd_pct,0.1,2023.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+South Korea,poverty_3usd_pct,0.2,2021.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+Spain,poverty_3usd_pct,0.8,2023.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+United Kingdom,poverty_3usd_pct,0.5,2021.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+United States,poverty_3usd_pct,1.2,2023.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio (2021 PPP) at | $3.00 a day
+Australia,poverty_national_pct,13.4,2020.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+Brazil,poverty_national_pct,,,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+Canada,poverty_national_pct,3.2,2022.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+China,poverty_national_pct,0.0,2020.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+France,poverty_national_pct,15.6,2021.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+Germany,poverty_national_pct,14.8,2021.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+India,poverty_national_pct,23.9,2022.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+Italy,poverty_national_pct,9.4,2021.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+Japan,poverty_national_pct,,,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+Mexico,poverty_national_pct,29.6,2024.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+Russia,poverty_national_pct,11.0,2021.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+South Korea,poverty_national_pct,14.4,2016.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+Spain,poverty_national_pct,20.2,2022.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+United Kingdom,poverty_national_pct,21.0,2023.0,List_of_countries_by_percentage_of_population_living_in_poverty,Poverty headcount ratio at national poverty lines | % of population
+United States,poverty_national_pct,10.6,2024.0,Economy_of_the_United_States,infobox
+Australia,public_debt_pct_gdp,51.0,,List_of_countries_by_government_debt,Gross debt[6]
+Brazil,public_debt_pct_gdp,93.3,,List_of_countries_by_government_debt,Gross debt[6]
+Canada,public_debt_pct_gdp,113.5,,List_of_countries_by_government_debt,Gross debt[6]
+China,public_debt_pct_gdp,99.2,,List_of_countries_by_government_debt,Gross debt[6]
+France,public_debt_pct_gdp,116.0,,List_of_countries_by_government_debt,Gross debt[6]
+Germany,public_debt_pct_gdp,62.9,,List_of_countries_by_government_debt,Gross debt[6]
+India,public_debt_pct_gdp,84.1,,List_of_countries_by_government_debt,Gross debt[6]
+Italy,public_debt_pct_gdp,137.1,,List_of_countries_by_government_debt,Gross debt[6]
+Japan,public_debt_pct_gdp,206.5,,List_of_countries_by_government_debt,Gross debt[6]
+Mexico,public_debt_pct_gdp,61.8,,List_of_countries_by_government_debt,Gross debt[6]
+Russia,public_debt_pct_gdp,17.2,,List_of_countries_by_government_debt,Gross debt[6]
+South Korea,public_debt_pct_gdp,52.3,,List_of_countries_by_government_debt,Gross debt[6]
+Spain,public_debt_pct_gdp,100.4,,List_of_countries_by_government_debt,Gross debt[6]
+United Kingdom,public_debt_pct_gdp,102.3,,List_of_countries_by_government_debt,Gross debt[6]
+United States,public_debt_pct_gdp,123.9,,List_of_countries_by_government_debt,Gross debt[6]
+Australia,rnd_pct_gdp,1.83,2021.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+Brazil,rnd_pct_gdp,1.19,2023.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+Canada,rnd_pct_gdp,1.79,2024.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+China,rnd_pct_gdp,2.58,2023.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+France,rnd_pct_gdp,2.18,2023.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+Germany,rnd_pct_gdp,3.15,2023.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+India,rnd_pct_gdp,0.65,2020.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+Italy,rnd_pct_gdp,1.38,2023.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+Japan,rnd_pct_gdp,3.44,2023.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+Mexico,rnd_pct_gdp,0.25,2024.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+Russia,rnd_pct_gdp,0.94,2024.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+South Korea,rnd_pct_gdp,4.94,2023.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+Spain,rnd_pct_gdp,1.49,2023.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+United Kingdom,rnd_pct_gdp,2.68,2023.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+United States,rnd_pct_gdp,3.45,2023.0,List_of_countries_by_research_and_development_spending,WB[4] | R&D expenditure | % of GDP
+Australia,sector_agriculture_pct,4.0,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+Brazil,sector_agriculture_pct,5.4,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+Canada,sector_agriculture_pct,1.8,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+China,sector_agriculture_pct,6.9,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+France,sector_agriculture_pct,1.9,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+Germany,sector_agriculture_pct,0.8,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+India,sector_agriculture_pct,17.4,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+Italy,sector_agriculture_pct,2.0,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+Japan,sector_agriculture_pct,1.2,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+Mexico,sector_agriculture_pct,3.7,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+Russia,sector_agriculture_pct,3.9,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+South Korea,sector_agriculture_pct,2.7,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+Spain,sector_agriculture_pct,3.3,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+United Kingdom,sector_agriculture_pct,0.7,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+United States,sector_agriculture_pct,1.2,,List_of_countries_by_GDP_sector_composition,Agricultural | %
+Australia,sector_industry_pct,26.6,,List_of_countries_by_GDP_sector_composition,Industrial | %
+Brazil,sector_industry_pct,27.4,,List_of_countries_by_GDP_sector_composition,Industrial | %
+Canada,sector_industry_pct,28.6,,List_of_countries_by_GDP_sector_composition,Industrial | %
+China,sector_industry_pct,40.1,,List_of_countries_by_GDP_sector_composition,Industrial | %
+France,sector_industry_pct,18.3,,List_of_countries_by_GDP_sector_composition,Industrial | %
+Germany,sector_industry_pct,28.1,,List_of_countries_by_GDP_sector_composition,Industrial | %
+India,sector_industry_pct,25.8,,List_of_countries_by_GDP_sector_composition,Industrial | %
+Italy,sector_industry_pct,24.2,,List_of_countries_by_GDP_sector_composition,Industrial | %
+Japan,sector_industry_pct,27.5,,List_of_countries_by_GDP_sector_composition,Industrial | %
+Mexico,sector_industry_pct,34.2,,List_of_countries_by_GDP_sector_composition,Industrial | %
+Russia,sector_industry_pct,36.0,,List_of_countries_by_GDP_sector_composition,Industrial | %
+South Korea,sector_industry_pct,39.8,,List_of_countries_by_GDP_sector_composition,Industrial | %
+Spain,sector_industry_pct,24.2,,List_of_countries_by_GDP_sector_composition,Industrial | %
+United Kingdom,sector_industry_pct,21.0,,List_of_countries_by_GDP_sector_composition,Industrial | %
+United States,sector_industry_pct,19.1,,List_of_countries_by_GDP_sector_composition,Industrial | %
+Australia,sector_services_pct,69.4,,List_of_countries_by_GDP_sector_composition,Service | %
+Brazil,sector_services_pct,67.2,,List_of_countries_by_GDP_sector_composition,Service | %
+Canada,sector_services_pct,69.6,,List_of_countries_by_GDP_sector_composition,Service | %
+China,sector_services_pct,52.9,,List_of_countries_by_GDP_sector_composition,Service | %
+France,sector_services_pct,79.8,,List_of_countries_by_GDP_sector_composition,Service | %
+Germany,sector_services_pct,71.1,,List_of_countries_by_GDP_sector_composition,Service | %
+India,sector_services_pct,56.9,,List_of_countries_by_GDP_sector_composition,Service | %
+Italy,sector_services_pct,73.8,,List_of_countries_by_GDP_sector_composition,Service | %
+Japan,sector_services_pct,71.4,,List_of_countries_by_GDP_sector_composition,Service | %
+Mexico,sector_services_pct,62.1,,List_of_countries_by_GDP_sector_composition,Service | %
+Russia,sector_services_pct,60.1,,List_of_countries_by_GDP_sector_composition,Service | %
+South Korea,sector_services_pct,57.5,,List_of_countries_by_GDP_sector_composition,Service | %
+Spain,sector_services_pct,72.6,,List_of_countries_by_GDP_sector_composition,Service | %
+United Kingdom,sector_services_pct,78.3,,List_of_countries_by_GDP_sector_composition,Service | %
+United States,sector_services_pct,79.7,,List_of_countries_by_GDP_sector_composition,Service | %
+Australia,un_region,Australia and New Zealand,,List_of_countries_by_income_equality,UN Region
+Brazil,un_region,South America,,List_of_countries_by_income_equality,UN Region
+Canada,un_region,Northern America,,List_of_countries_by_income_equality,UN Region
+China,un_region,Eastern Asia,,List_of_countries_by_income_equality,UN Region
+France,un_region,Western Europe,,List_of_countries_by_income_equality,UN Region
+Germany,un_region,Western Europe,,List_of_countries_by_income_equality,UN Region
+India,un_region,Southern Asia,,List_of_countries_by_income_equality,UN Region
+Italy,un_region,Southern Europe,,List_of_countries_by_income_equality,UN Region
+Japan,un_region,Eastern Asia,,List_of_countries_by_income_equality,UN Region
+Mexico,un_region,Central America,,List_of_countries_by_income_equality,UN Region
+Russia,un_region,Eastern Europe,,List_of_countries_by_income_equality,UN Region
+South Korea,un_region,Eastern Asia,,List_of_countries_by_income_equality,UN Region
+Spain,un_region,Southern Europe,,List_of_countries_by_income_equality,UN Region
+United Kingdom,un_region,Northern Europe,,List_of_countries_by_income_equality,UN Region
+United States,un_region,Northern America,,List_of_countries_by_income_equality,UN Region
+Australia,unemployment_pct,4.1,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+Brazil,unemployment_pct,7.6,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+Canada,unemployment_pct,6.5,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+China,unemployment_pct,4.6,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+France,unemployment_pct,7.4,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+Germany,unemployment_pct,3.4,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+India,unemployment_pct,4.2,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+Italy,unemployment_pct,6.8,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+Japan,unemployment_pct,2.6,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+Mexico,unemployment_pct,2.7,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+Russia,unemployment_pct,2.5,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+South Korea,unemployment_pct,2.6,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+Spain,unemployment_pct,9.93,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+United Kingdom,unemployment_pct,4.1,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+United States,unemployment_pct,4.1,2024.0,List_of_countries_by_unemployment_rate,Unemployment rate (%) | WB[6] (2024)
+Australia,urban_pct,86.6,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+Brazil,urban_pct,87.8,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+Canada,urban_pct,81.9,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+China,urban_pct,64.6,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+France,urban_pct,81.8,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+Germany,urban_pct,77.8,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+India,urban_pct,36.4,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+Italy,urban_pct,72.0,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+Japan,urban_pct,92.0,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+Mexico,urban_pct,81.6,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+Russia,urban_pct,75.3,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+South Korea,urban_pct,81.5,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+Spain,urban_pct,81.6,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+United Kingdom,urban_pct,84.6,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]
+United States,urban_pct,83.3,2023.0,List_of_countries_by_urban_population,% of total population (2023)[2]

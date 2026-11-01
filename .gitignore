@@ -1,0 +1,8 @@
+# local environment and notebook scratch
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# cached Wikipedia HTML: regenerated on the first run of the notebook
+data/raw/
