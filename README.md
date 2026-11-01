@@ -94,7 +94,7 @@ The code and notebook are released under the [MIT License](LICENSE). The MIT lic
 ## Troubleshooting
 
 **`NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL …'`**
-This is a harmless warning, common with the Python that ships with macOS. The notebook works normally. To remove it, use either fix:
+This is a harmless warning, common with the Python that ships with macOS. The notebook's first cell already silences it, so you should not see it there; it can still appear if another tool imports urllib3 (for example `pip` or a terminal script). To remove it everywhere, use either fix:
 - Install a newer Python (for example from python.org or Homebrew), recreate `.venv` with it and reinstall the requirements; or
 - Pin an older urllib3 in the environment: `pip install "urllib3<2"`.
 
